@@ -1,0 +1,6 @@
+Accuracy KNN: 0.9551666666666667
+Accuracy my KNN: 0.9468333333333333
+Accuracy Tree: 0.827
+Accuracy SVM one-versus-one:0.9711666666666666
+Accuracy SVM one-versus-rest:0.8573333333333333
+Accuracy LogReg:0.8955
