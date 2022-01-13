@@ -1,6 +1,8 @@
 # Machine-learning-NSU
 Tasks from machine learning course in NSU
 
+Autumn 2020
+
 
 Task 0
 -
